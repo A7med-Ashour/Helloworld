@@ -1,12 +1,2 @@
  Volume in drive C is Windows
- Volume Serial Number is 58E2-7B62
-
- Directory of C:\Users\scorp\Desktop\javaProject
-
-05/17/2020  04:54 AM    <DIR>          .
-05/17/2020  04:54 AM    <DIR>          ..
-05/17/2020  04:54 AM               901 Hello.class
-05/17/2020  03:39 AM               154 Hello.java
-05/17/2020  04:54 AM                 0 index.txt
-               3 File(s)          1,055 bytes
-               2 Dir(s)  39,515,975,680 bytes free
+ 
